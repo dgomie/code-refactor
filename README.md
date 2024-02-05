@@ -10,9 +10,11 @@ N/A
 
 ## Usage
 
-Navigate to https://dgomie.github.io/module-1-challenge/. To view the updated html elements and alt text for images, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser.
+Navigate to https://dgomie.github.io/code-refactor/. To view the updated html elements and alt text for images, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser.
 
 ## Credits
+
+Original source code repository from https://github.com/coding-boot-camp/urban-octo-telegram
 
 George "Georgeyoo" - https://github.com/Georgeyoo
 
